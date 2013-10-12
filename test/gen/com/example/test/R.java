@@ -72,8 +72,8 @@ public final class R {
         public static final int decode_failed=0x7f090001;
         public static final int decode_succeeded=0x7f090002;
         public static final int done_button=0x7f090026;
-        public static final int editText1=0x7f09000c;
-        public static final int editText2=0x7f09000d;
+        public static final int editText1=0x7f09000d;
+        public static final int editText2=0x7f09000c;
         public static final int encode_bad_data=0x7f090040;
         public static final int encode_contact=0x7f09003d;
         public static final int encode_email=0x7f09003a;
